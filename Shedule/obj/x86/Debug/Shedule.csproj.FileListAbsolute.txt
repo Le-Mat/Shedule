@@ -1,0 +1,16 @@
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.Form1.resources
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.Properties.Resources.resources
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.Registration.resources
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.csproj.GenerateResource.Cache
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\bin\Debug\Shedule.exe
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\bin\Debug\Shedule.pdb
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.exe
+C:\Users\akaza\AppData\Local\Temporary Projects\Shedule\obj\x86\Debug\Shedule.pdb
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.exe
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.pdb
+F:\c# Projects\Shedule\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\c# Projects\Shedule\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.Enter.resources
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.Properties.Resources.resources
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.Registration.resources
+F:\c# Projects\Shedule\Shedule\Shedule\obj\x86\Debug\Shedule.csproj.GenerateResource.Cache
